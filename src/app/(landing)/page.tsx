@@ -43,7 +43,7 @@ export default function Home() {
             PromptPay
           </TextScramble>
           <TextScramble className="text-xl text-gray-200 mb-8 max-w-2xl mx-auto denk-one-regular">
-            Humanized Artificial Intelligence Through Natural Emergence
+            Say It, Send It. AI Handles Your Crypto.
           </TextScramble>
 
           <div className="flex justify-center gap-4 mb-20">
